@@ -1,0 +1,12 @@
+{
+  "name": "dailyroutineplanner",
+  "version": "1.0.0",
+  "description": "This is a small website for a Daily Routine Planner with Timing functionalities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

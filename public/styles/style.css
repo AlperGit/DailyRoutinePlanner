@@ -1,0 +1,66 @@
+body
+{
+    background-color: white;
+}
+
+.sec_name
+{
+    text-align: center;
+}
+
+.sec_coaching
+{
+    height: 83vh;
+    width: 98vw;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    gap: 0.16vw;
+}
+
+.sec_info
+{
+    background-color: red;
+    height: 100%;
+    width: 16.6%;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: 2;
+}
+.sec_mind
+{
+    background-color: red;
+    height: 100%;
+    width: 16.6%;
+    border: 1px solid black;
+}
+.sec_body
+{
+    background-color: red;
+    height: 100%;
+    width: 16.6%;
+    border: 1px solid black;
+}
+.sec_spirit
+{
+    background-color: red;
+    height: 100%;
+    width: 16.6%;
+    border: 1px solid black;
+}
+.sec_finances
+{
+    background-color: red;
+    height: 100%;
+    width: 16.6%;
+    border: 1px solid black;
+}
+.sec_weekly_challenge
+{
+    background-color: red;
+    height: 100%;
+    width: 16.6%;
+    border: 1px solid black;
+}
